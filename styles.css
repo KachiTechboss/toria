@@ -1,0 +1,89 @@
+body{
+  background-color: white;
+  margin: 0;
+}
+
+.tittle-container {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  padding: 30px;
+  margin: 0;
+  background-color: bisque;
+}
+.tittle-container h1{
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.logo-container{
+  padding:30px 10px ;
+  text-align: center;
+  background-color: #f6834f;
+  margin: 0;
+  font-family:"Montserrat";
+  color: #ffffff;
+}
+.logo-container h2{
+  font-family: "Montserrat-bold";
+  font-size: 50px;
+}
+.logo{
+  width: 60%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+.logo-img{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 40px;
+  border-radius: 40px;
+  padding: 19px;
+}
+.toria-img{
+  width: 400x;
+  height: 400px;
+  float: right;
+  margin-left: 40px;
+  border-radius: 10px; 
+}
+.button{
+padding: 100px;
+margin: 40px auto 60px;
+text-align: center;
+}
+
+.btn {
+  background: black;
+  background-image: -webkit-linear-gradient(top, black, black);
+  background-image: -moz-linear-gradient(top, black, black);
+  background-image: -ms-linear-gradient(top,black, black);
+  background-image: -o-linear-gradient(top, black, black);
+  background-image: linear-gradient(to bottom, black, black);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family:"Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width: 40%;
+  justify-content: center;
+  margin: 40px auto 60px;
+}
+
+.footer-link{
+  background-color: white;
+  margin: 0;
+  text-decoration: none;
+  text-align: center;
+  padding: 20px;
+  font-size: 16px;
+  margin-top: -1.5rem;
+  font-family:"Montserrat";
+}
+.footer-link:hover{
+  color: #f6834f;
+}
+              
